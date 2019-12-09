@@ -1,0 +1,10 @@
+./persons/images/val/41.jpg
+./persons/images/val/42.jpg
+./persons/images/val/43.jpg
+./persons/images/val/44.jpg
+./persons/images/val/45.jpg
+./persons/images/val/46.jpg
+./persons/images/val/47.jpg
+./persons/images/val/48.jpg
+./persons/images/val/49.jpg
+./persons/images/val/50.jpg
